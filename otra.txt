@@ -1,0 +1,56 @@
+
+- MODELO Dudas
+	- Forma pago: usuario o profesional?
+- MODELO A revisar
+	- Tarifas profesional
+	- DEMANDAS:
+		- Si usuario contacta con profesional directamente
+		  se abre una demanda automáticamente? 
+		- opción de publicadas/no publicas?
+			
+
+- SKETCH A revisar
+	- Menú Profesional Trabajos realizados no existe (lista con valor. y fotos…)
+	- Menú Usuario Profesionales Favoritos no existe
+	- Alta Demanda: en lugar de especialidad poner subcategoría
+
+
+- Ofertas onLine (concepto + precio)
+- Modelo:
+	- Demandas tiempo limitado (hasta aceptar oferta/profesional o time)	
+	- 
+- Filtros en los listados
+- Demanda
+	- Añadir Fecha inicio Trabajos
+
+IDEAS:
+	- Chat enriquecido (imágenes, pdf’s…)
+	- Notificacion Fecha ini
+
+PANTALLAS A CREAR:
+	- PRESUPUESTO (Link Enviar Presupuesto)
+		- Lista Concepto - Valor
+		- Días de Validez del presupuesto
+	- Si no se ha aceptado ningún presupuesto caducan
+	- Valoración
+	- LLAMAR
+
+A INVESTIGAR:
+	- PAGO FUERA DE LA APP
+
+PENDIENTE:
+	- PROCESO DE CIERRE PROYECTO
+	- MENÚ INTRODUCIR DATOS DE PAGO
+
+EXTRAS:
+	- PROYECTO (Financiación)
+	- NEWs (para profesionales? para usuarios?)
+	- LINKS A REDES SOCIALES ()
+	- ACTIVAR/DESACTIVAR OFERTAS
+
+IDEAS NEGOCIO:
+	- ASEGURADORAS
+	- BODAS
+	- 
+
+
